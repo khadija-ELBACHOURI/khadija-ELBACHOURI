@@ -14,9 +14,11 @@ Full-stack engineer (ENSA Fès, Computer Science) building microservice backends
 - Implemented the full Stripe payment flow: plan selection, checkout, and confirmation email with receipt.
 - Built authentication and RBAC with Keycloak and JWT across multiple microservices (admins, parents, students).
 - Worked with PostgreSQL and GitLab CI/CD.
+  
 **AI Agent Intern, Workflow Automation | Marketing Confort** (Jul 2025 to Sep 2025, remote)
 - Built 10+ n8n integration pipelines connecting WhatsApp, Discord, and internal APIs through secure webhooks.
 - Built an internal dashboard so non-technical users can monitor workflow executions.
+
 **Full-Stack Web Development Intern | WEBMARKO** (Jul 2024 to Aug 2024, Fès)
 - Built a role-based employee management system with Laravel MVC and optimized SQL queries, cutting manual HR tasks by 40%.
 ## Tech stack
