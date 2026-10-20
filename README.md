@@ -24,11 +24,18 @@ Full-stack engineer (ENSA Fès, Computer Science) building microservice backends
 ## Tech stack
  
 **Languages:** Java, TypeScript, JavaScript, Python, C#, C++, PHP
+
 **Backend:** Spring Boot, Node.js, Laravel, REST APIs
+
 **Frontend:** React, Next.js, React Native
+
+
 **Databases:** PostgreSQL, MySQL, MongoDB
+
 **AI:** RAG, LangChain, n8n, scikit-learn, Keras
+
 **DevOps and tools:** Docker, GitLab CI/CD, GitHub, Keycloak
+
 **Methodology:** Agile/Scrum, UML
  
 ## Featured projects
