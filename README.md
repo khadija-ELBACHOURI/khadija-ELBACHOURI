@@ -38,7 +38,6 @@ Full-stack engineer (ENSA Fès, Computer Science) building microservice backends
 | [langchain-project](https://github.com/khadija-ELBACHOURI/langchain-project) | LLM application built with LangChain | Python, LangChain |
 | [email-spam-classifier](https://github.com/khadija-ELBACHOURI/email-spam-classifier) | Model that detects email/SMS spam | Python, Jupyter |
 | [task-manager-fullstack](https://github.com/khadija-ELBACHOURI/task-manager-fullstack) | Full-stack task manager | JavaScript |
-| [AI-powered-chat-application](https://github.com/khadija-ELBACHOURI/AI-powered-chat-application) | Chat application with AI responses | TODO |
  
 ## Education and certifications
  
